@@ -1,0 +1,11 @@
+﻿  ООП 1.cpp
+C:\Users\Bross\source\repos\ООП 1\ООП 1\ООП 1.cpp(258,50): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Bross\source\repos\ООП 1\ООП 1\ООП 1.cpp(258,47): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Bross\source\repos\ООП 1\ООП 1\ООП 1.cpp(265,49): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Bross\source\repos\ООП 1\ООП 1\ООП 1.cpp(265,46): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Bross\source\repos\ООП 1\ООП 1\ООП 1.cpp(269,47): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Bross\source\repos\ООП 1\ООП 1\ООП 1.cpp(276,66): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Bross\source\repos\ООП 1\ООП 1\ООП 1.cpp(276,63): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Bross\source\repos\ООП 1\ООП 1\ООП 1.cpp(283,63): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Bross\source\repos\ООП 1\ООП 1\ООП 1.cpp(283,60): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  ООП 1.vcxproj -> C:\Users\Bross\source\repos\ООП 1\x64\Debug\ООП 1.exe
