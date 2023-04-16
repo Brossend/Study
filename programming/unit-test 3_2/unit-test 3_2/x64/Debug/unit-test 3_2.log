@@ -1,0 +1,6 @@
+﻿  unit-test 3_2.cpp
+  var.cpp
+C:\Users\Bross\source\repos\unit-test 3_2\unit-test 3_2\var.cpp(34,8): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Bross\source\repos\unit-test 3_2\unit-test 3_2\var.cpp(42,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+  unit-test 3_2.vcxproj -> C:\Users\Bross\source\repos\unit-test 3_2\x64\Debug\unit-test 3_2.exe

@@ -1,0 +1,7 @@
+﻿  first.cpp
+C:\Users\Bross\source\repos\unit-test 4_1\unit-test 4_1\first.cpp(8,22): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\Bross\source\repos\unit-test 4_1\unit-test 4_1\first.cpp(13,22): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  sixth.cpp
+  unit-test 4_1.cpp
+  Создание кода...
+  unit-test 4_1.vcxproj -> C:\Users\Bross\source\repos\unit-test 4_1\x64\Debug\unit-test 4_1.exe
