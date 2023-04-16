@@ -1,0 +1,8 @@
+﻿  Example.cpp
+C:\Users\Bross\source\repos\unit-test 1_1\unit-test 1_1\Example.h(4,27): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Bross\source\repos\unit-test 1_1\unit-test 1_1\Example.cpp(21,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Bross\source\repos\unit-test 1_1\unit-test 1_1\Example.cpp(25,26): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  unit-test 1_1.cpp
+C:\Users\Bross\source\repos\unit-test 1_1\unit-test 1_1\Example.h(4,27): warning C4305: инициализация: усечение из "double" в "float"
+  Создание кода...
+  unit-test 1_1.vcxproj -> C:\Users\Bross\source\repos\unit-test 1_1\x64\Debug\unit-test 1_1.exe
