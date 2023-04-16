@@ -1,0 +1,6 @@
+﻿  unit-test 3_1 dec.cpp
+C:\Users\Bross\source\repos\unit-test 3_1 inc\unit-test 3_1 dec\varrr.h(5,13): warning C4305: инициализация: усечение из "double" в "float"
+  varrr.cpp
+C:\Users\Bross\source\repos\unit-test 3_1 inc\unit-test 3_1 dec\varrr.h(5,13): warning C4305: инициализация: усечение из "double" в "float"
+  Создание кода...
+  unit-test 3_1 dec.vcxproj -> C:\Users\Bross\source\repos\unit-test 3_1 inc\x64\Debug\unit-test 3_1 dec.exe
