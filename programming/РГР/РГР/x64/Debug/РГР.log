@@ -1,0 +1,8 @@
+﻿  РГР.cpp
+C:\Users\Bross\source\repos\РГР\РГР\РГР.cpp(168,40): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Bross\source\repos\РГР\РГР\РГР.cpp(170,53): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Bross\source\repos\РГР\РГР\РГР.cpp(170,23): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Bross\source\repos\РГР\РГР\РГР.cpp(173,40): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Bross\source\repos\РГР\РГР\РГР.cpp(175,63): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Bross\source\repos\РГР\РГР\РГР.cpp(175,23): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  РГР.vcxproj -> C:\Users\Bross\source\repos\РГР\x64\Debug\РГР.exe
