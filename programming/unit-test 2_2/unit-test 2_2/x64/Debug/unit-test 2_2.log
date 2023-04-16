@@ -1,0 +1,5 @@
+﻿  que.cpp
+C:\Users\Bross\source\repos\unit-test 2_2\unit-test 2_2\que.cpp(27,25): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  unit-test 2_2.cpp
+  Создание кода...
+  unit-test 2_2.vcxproj -> C:\Users\Bross\source\repos\unit-test 2_2\x64\Debug\unit-test 2_2.exe
