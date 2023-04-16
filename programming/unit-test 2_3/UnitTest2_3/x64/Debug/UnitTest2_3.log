@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest2_3.cpp
+C:\Users\Bross\source\repos\unit-test 2_3\UnitTest2_3\UnitTest2_3.cpp(15,1): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Bross\source\repos\unit-test 2_3\UnitTest2_3\UnitTest2_3.cpp(28,1): warning C4305: инициализация: усечение из "double" в "float"
+     Создается библиотека C:\Users\Bross\source\repos\unit-test 2_3\x64\Debug\UnitTest2_3.lib и объект C:\Users\Bross\source\repos\unit-test 2_3\x64\Debug\UnitTest2_3.exp
+  UnitTest2_3.vcxproj -> C:\Users\Bross\source\repos\unit-test 2_3\x64\Debug\UnitTest2_3.dll

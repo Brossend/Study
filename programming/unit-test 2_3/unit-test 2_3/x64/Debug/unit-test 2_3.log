@@ -1,0 +1,6 @@
+﻿  unit-test 2_3.cpp
+  while_do.cpp
+C:\Users\Bross\source\repos\unit-test 2_3\unit-test 2_3\while_do.cpp(14,12): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\Bross\source\repos\unit-test 2_3\unit-test 2_3\while_do.cpp(19,12): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+  unit-test 2_3.vcxproj -> C:\Users\Bross\source\repos\unit-test 2_3\x64\Debug\unit-test 2_3.exe
